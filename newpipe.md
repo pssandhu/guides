@@ -3,13 +3,13 @@
 
 # Installing F-Droid
 
-In order to install NewPipe you must have the F-Droid app. Please follow [these instructions](./f-droid.html) if you do not already have it.
+In order to install NewPipe you must have the F-Droid app. Please follow [these instructions](./f-droid) if you do not already have it.
 
 # Installing NewPipe
 
 ## From F-Droid
 
-NewPipe can be [installed from F-Droid](./f-droid.html#installing-apps-from-f-droid) like other apps. [This link](https://f-droid.org/packages/org.schabi.newpipe/) should take you to the appropriate page in F-Droid.
+NewPipe can be [installed from F-Droid](./f-droid#installing-apps-from-f-droid) like other apps. [This link](https://f-droid.org/packages/org.schabi.newpipe/) should take you to the appropriate page in F-Droid.
 
 ## Using NewPipe's F-Droid Repository
 
