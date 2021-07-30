@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header .btn {
-  display: none;
+    display: none;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
