@@ -1,3 +1,7 @@
+---
+title: guides | NewPipe
+description: A guide to NewPipe, a privacy-friendly YouTube client for Android
+---
 
 [Home](./)
 

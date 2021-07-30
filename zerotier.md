@@ -1,3 +1,7 @@
+---
+title: guides | ZeroTier
+description: A guide to using ZeroTier networks
+---
 
 [Home](./)
 

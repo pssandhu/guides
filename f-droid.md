@@ -1,3 +1,7 @@
+---
+title: guides | F-Droid
+description: A guide to F-Droid, a source of free and open source Android apps
+---
 
 [Home](./)
 
