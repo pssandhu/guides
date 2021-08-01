@@ -5,6 +5,18 @@ description: A guide to NewPipe, a privacy-friendly YouTube client for Android
 
 [Home](./)
 
+# What is NewPipe?
+
+[NewPipe](https://newpipe.net/) is a privacy-friendly Android app for watching videos and listening to music from sites like YouTube. Its features include:
+
+- No adverts
+- Download video and audio
+- Play audio in the background while using other apps
+- Subscriptions and playlists without an account
+- Organise subscriptions into groups
+
+![Screenshots of NewPipe](./images/newpipe-screenshots.jpg)
+
 # Installing F-Droid
 
 In order to install NewPipe you must have the F-Droid app. Please follow [these instructions](./f-droid) if you do not already have it.
@@ -23,4 +35,6 @@ NewPipe's F-Droid repository allows updates to NewPipe to be available sooner th
 # Links
 
 [NewPipe Homepage](https://newpipe.net/)
+
+[NewPipe Frequently Asked Questions](https://newpipe.net/FAQ/) (press `Show all`)
 
