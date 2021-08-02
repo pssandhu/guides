@@ -29,6 +29,8 @@ Apps can be installed from F-Droid in the same way as other app stores, such as 
 
 The list of available apps can be refreshed by pulling down the top of the page until the refresh icon appears and then letting go.
 
+See [this page](./recommended-f-droid-apps) for a list of F-Droid apps I recommend.
+
 # Updating Apps from F-Droid
 
 Apps installed from F-Droid can be updated on the Updates page. After downloading an update, you may have to press again to install it. Automatic update downloads and notifications can be configured in the Settings menu but updates must be manually installed from the Updates page.
