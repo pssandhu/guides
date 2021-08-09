@@ -19,11 +19,15 @@ In order to install these apps you must have F-Droid. Please follow [these instr
 - [AudioAnchor](https://f-droid.org/packages/com.prangesoftwaresolutions.audioanchor/) - Audiobook player that remembers your progress (also useful for other audio files)
 - [RadioDroid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) - Internet radio player
 - [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer/) - Easy to use and well-designed music player
-- [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Powerful video and audio player than supports many formats ([Homepage](https://www.videolan.org/vlc/))
+- [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Powerful video and audio player that supports many formats ([Homepage](https://www.videolan.org/vlc/))
 
 # Calculators
 
-- [Unit Converter Ultimate](https://f-droid.org/packages/com.physphil.android.unitconverterultimate/) - Fast and simple unit converter
+- [Unit Converter Ultimate](https://f-droid.org/packages/com.physphil.android.unitconverterultimate/) - Quick and simple unit converter
+
+# Documents
+
+- [Librera Reader](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/) - Highly customisable ebook reader
 
 # Games
 
@@ -42,13 +46,14 @@ In order to install these apps you must have F-Droid. Please follow [these instr
 
 # Maps, Travel, and Weather
 
-- [Geometric Weather](https://f-droid.org/packages/wangdaye.com.geometricweather/) - Well-design weather app with nice, customisable widgets
+- [Compass](https://f-droid.org/packages/com.bobek.compass/) - Simple compass
+- [Geometric Weather](https://f-droid.org/packages/wangdaye.com.geometricweather/) - Well-designed weather app with nice, customisable widgets
 - [OsmAnd+](https://f-droid.org/packages/net.osmand.plus/) - Feature-rich maps using [OpenStreetMap](https://www.openstreetmap.org/) that work offline
 
 # Music
 
 - [Metronome](https://f-droid.org/packages/de.moekadu.metronome/) - Metronome with drum pattern input and user presets
-- [Tuner](https://f-droid.org/en/packages/de.moekadu.tuner/) - Chromatic tuner
+- [Tuner](https://f-droid.org/packages/de.moekadu.tuner/) - Chromatic tuner
 
 # Notes
 
@@ -66,7 +71,8 @@ In order to install these apps you must have F-Droid. Please follow [these instr
 # Sync
 
 - [DAVx5](https://f-droid.org/packages/at.bitfire.davdroid/) - Sync calendars and contacts using CalDAV/CardDAV
-- [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/) - Synchronise files between devices ([Homepage](https://syncthing.net/))
+- [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/) - Synchronise files between devices. Also available on Windows, macOS, and Linux ([Homepage](https://syncthing.net/))
+- [Warpinator](https://f-droid.org/packages/slowscript.warpinator/) - Send files between devices. Also available on Linux ([GitHub](https://github.com/linuxmint/warpinator), [Flathub](https://flathub.org/apps/details/org.x.Warpinator))
 
 # Tools
 
@@ -79,5 +85,5 @@ In order to install these apps you must have F-Droid. Please follow [these instr
 # Video
 
 - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - Privacy-friendly YouTube client ([Guide](./newpipe), [Homepage](https://newpipe.net/))
-- [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Powerful video and audio player than supports many formats ([Homepage](https://www.videolan.org/vlc/))
+- [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Powerful video and audio player that supports many formats ([Homepage](https://www.videolan.org/vlc/))
 
