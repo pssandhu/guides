@@ -8,6 +8,8 @@ A range of guides for various pieces of software and technology.
 
 [NewPipe](./newpipe)
 
+[Recommended VST Plugins](./recommended-vst-plugins)
+
 [Jellyfin Media Player](./jellyfin-media-player)
 
 [ZeroTier](./zerotier)
