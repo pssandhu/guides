@@ -52,15 +52,15 @@ In order to install these apps you must have F-Droid. Please follow [these instr
 # Graphics and Images
 
 - [Simple Gallery](https://f-droid.org/packages/com.simplemobiletools.gallery.pro/) - Image viewer and photo editor
-- [Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/) - Drawing and image editing app with layers
 - [Simple Draw](https://f-droid.org/packages/com.simplemobiletools.draw.pro/) - Simple drawing app
+- [Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/) - Drawing and image editing app with layers
 
 # Internet
 
 - [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/) - Local feed reader (RSS, Atom etc.)
 - [Fritter](https://f-droid.org/packages/com.jonjomckay.fritter/) - Open-source Twitter client that allows subscriptions and groups without an account
 - [Infinity for Reddit](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/) - Open-source Reddit client
-- [wallabag](https://f-droid.org/packages/fr.gaulupeau.apps.InThePoche/) - Save articles to read later or archive ([Homepage(https://www.wallabag.org/en)])
+- [wallabag](https://f-droid.org/packages/fr.gaulupeau.apps.InThePoche/) - Save articles to read later or archive ([Homepage](https://www.wallabag.org/))
 
 # Maps, Travel, and Weather
 
@@ -94,7 +94,7 @@ In order to install these apps you must have F-Droid. Please follow [these instr
 
 - [DAVx5](https://f-droid.org/packages/at.bitfire.davdroid/) - Sync calendars and contacts using CalDAV/CardDAV
 - [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/) - Synchronise files between devices. Also available on Windows, macOS, and Linux ([Homepage](https://syncthing.net/))
-- [Warpinator](https://f-droid.org/packages/slowscript.warpinator/) - Send files between devices. Also available on Linux ([GitHub](https://github.com/linuxmint/warpinator), [Flathub](https://flathub.org/apps/details/org.x.Warpinator)) and Windows ([Homepage](https://winpinator.swisz.cz/))
+- [Warpinator](https://f-droid.org/packages/slowscript.warpinator/) - Send files between devices. Also available on Linux ([GitHub](https://github.com/linuxmint/warpinator), [Flathub](https://flathub.org/apps/details/org.x.Warpinator)) and Windows ([Winpinator Homepage](https://winpinator.swisz.cz/))
 
 # Tools
 
